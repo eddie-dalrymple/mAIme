@@ -1,9 +1,9 @@
 {
-  "name": "mern-seed",
-  "version": "3.0.0",
+  "name": "maime",
+  "version": "1.0.0",
   "description": "README.md",
-  "author": "Tamas Szoke",
-  "contact": "tamas.szoke.dev@gmail.com",
+  "author": "Eddie Dalrymple",
+  "contact": "eddiedalrymple@gmail.com",
   "scripts": {
     "test:backend": "yarn --cwd backend/ test",
     "test:frontend": "yarn --cwd frontend/ test",

@@ -1,10 +1,10 @@
 {
-  "name": "mern-seed-backend",
-  "version": "3.0.0",
+  "name": "maime-backend",
+  "version": "1.0.0",
   "description": "README.md",
   "main": "index.js",
-  "author": "Tamas Szoke",
-  "contact": "tamas.szoke.dev@gmail.com",
+  "author": "Eddie Dalrymple",
+  "contact": "eddiedalrymple@gmail.com",
   "license": "MIT",
   "scripts": {
     "test": "TEST=true ts-mocha -p './tsconfig.json' 'src/*/*.test.ts' 'src/*/*/*.test.ts' 'src/*/*/*/*.test.ts'",
