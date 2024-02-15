@@ -1,2 +1,11 @@
 # .DS_Store files are created by Mac OS X Finder and should not be included in the repository
 .DS_Store
+
+# node_modules is where npm installs packages, and should not be included in the repository
+node_modules
+
+#.env
+.env
+
+#script logs
+scripts/log
