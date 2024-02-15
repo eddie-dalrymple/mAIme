@@ -72,3 +72,6 @@ typings/
 
 # Production
 build/
+
+# Mac
+.DS_Store
